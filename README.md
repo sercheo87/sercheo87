@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/sercheo87"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sergio-chancay/"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sergio.chancay@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chancaysergio@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <div align="center">
